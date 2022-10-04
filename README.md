@@ -1,5 +1,5 @@
 # desafio-github-primeiro-repositorio
-Desafio de projeto sobre Git/GitHub
+Repositorio criado para o desafio do Projeto.
 
 ##Links Utéis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
